@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farrin @fbell20
-- 👀 I’m interested in Data Science, in particularly the Sports Industry
-- 🌱 I’m currently learning Excel, SQL, and Python
-- 💞️ I’m looking to collaborate on any projects that I can add to my data science portfolio
+- 👀 I am a low level data engineer experienced in several industries such as media, credit, and retail.
+- 🌱 I’m currently furthering my learning in AWS tech stack, API's, and iOS app creation.
+- 💞️ I have a passion for analytics and am looking to collaborate on any projects that I can add to my portfolio. 
 - 📫 How to reach me: bell_farrin@yahoo.com: https://www.linkedin.com/in/farrin-bell-5691327b/
 
 <!---
